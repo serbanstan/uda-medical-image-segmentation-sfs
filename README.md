@@ -1,5 +1,4 @@
-### Implementation of [Domain Adaptation for the Segmentation of
-Confidential Medical Images](https://arxiv.org/abs/2101.00522)
+### Implementation of [Domain Adaptation for the Segmentation of Confidential Medical Images](https://arxiv.org/abs/2101.00522)
 
 # Requirements
 
